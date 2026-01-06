@@ -1,0 +1,2 @@
+Notepad for random scribblings in python
+print("Inventory after adding Tomatoes:", grocery_inventory)
